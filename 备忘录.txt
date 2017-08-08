@@ -1,0 +1,34 @@
+集成新版(5.17+)Activiti Modeler与Rest服务
+http://ju.outofmemory.cn/entry/234980
+
+activiti入门六(集成新版Activiti Modeler与Rest服务)
+http://whatlookingfor.com/2016/10/11/activiti%E5%85%A5%E9%97%A8%E5%85%AD-%E9%9B%86%E6%88%90%E6%96%B0%E7%89%88Activiti-Modeler%E4%B8%8ERest%E6%9C%8D%E5%8A%A1/
+
+
+关键字：OpenSessionInViewFilter
+
+java oauth2实现  谷歌搜索
+gg：restful接口安全  谷歌搜索
+
+三种表单：http://www.jianshu.com/p/09aa7fb304c2
+
+红讯会签 http://www.redxun.cn/?p=576
+
+Activiti源码浅析：Activity与Task
+http://blog.csdn.net/bluejoe2000/article/details/40630985
+
+关于activiti驳回等功能的封装
+http://lib.csdn.net/article/java/66784
+
+https://gist.github.com/henryyan kafeitu
+
+流程图 https://www.pleus.net/blog/?p=2142
+
+raphaeljs
+
+http://www.cnblogs.com/java-class/p/4845962.html   时间
+
+http://www.sojson.com/blog/145.html  spring3变4
+
+spring中的jackon
+
