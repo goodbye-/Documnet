@@ -31,4 +31,8 @@ http://www.cnblogs.com/java-class/p/4845962.html   时间   http://hw1287789687.
 http://www.sojson.com/blog/145.html  spring3变4
 
 spring中的jackon
+java8 http://www.iteye.com/magazines/129-Java-8-Tutorial
 
+http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html?spm=0.0.0.0.TbQtUH  阮一峰 oauth2.0
+绿盟 http://blog.nsfocus.net/rest-api-design-safety/
+最强postman http://blog.csdn.net/u013613428/article/details/51557804
