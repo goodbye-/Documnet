@@ -1,4 +1,4 @@
-集成新版(5.17+)Activiti Modeler与Rest服务
+﻿集成新版(5.17+)Activiti Modeler与Rest服务
 http://ju.outofmemory.cn/entry/234980
 
 activiti入门六(集成新版Activiti Modeler与Rest服务)
@@ -17,7 +17,7 @@ gg：restful接口安全  谷歌搜索
 Activiti源码浅析：Activity与Task
 http://blog.csdn.net/bluejoe2000/article/details/40630985
 
-关于activiti驳回等功能的封装
+关于activiti驳回等功能的封装啊实打实
 http://lib.csdn.net/article/java/66784
 
 https://gist.github.com/henryyan kafeitu
