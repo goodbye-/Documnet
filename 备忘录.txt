@@ -39,3 +39,6 @@ http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html?spm=0.0.0.0.TbQtUH  阮一
 https://v.qq.com/x/page/i0363976ky1.html?ref_vid=a03427q7ral 朱格乐
 
 http://www.cnblogs.com/xdp-gacl/
+
+http://blog.csdn.net/a837199685/article/details/50806876  threadlocal
+http://blog.csdn.net/a837199685/article/details/50806876
