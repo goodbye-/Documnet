@@ -42,5 +42,16 @@ http://www.cnblogs.com/xdp-gacl/
 
 http://blog.csdn.net/a837199685/article/details/50806876  threadlocal
 http://blog.csdn.net/a837199685/article/details/50806876
+知乎大神的ThreadLocal https://www.zhihu.com/question/23089780
 
-、网页测试
+规则引擎：https://zhuanlan.zhihu.com/p/28528925
+
+异常结构 特别是受检异常，runtime异常的实际应用
+
+newInstance创建的类，必须包含默认的构造函数，因为newInstance方法是没有参数的，通过反射可以实现任意方法的生成对象
+
+js深拷贝：
+http://blog.csdn.net/fungleo/article/details/54931379
+https://www.zhihu.com/question/23031215
+
+
