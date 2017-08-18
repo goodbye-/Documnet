@@ -32,6 +32,7 @@ http://www.sojson.com/blog/145.html  spring3变4
 
 spring中的jackon
 java8 http://www.iteye.com/magazines/129-Java-8-Tutorial
+http://tomcat.apache.org/tomcat-8.5-doc/config/valve.html#Remote_Address_Filter
 
 http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html?spm=0.0.0.0.TbQtUH  阮一峰 oauth2.0
 绿盟 http://blog.nsfocus.net/rest-api-design-safety/
@@ -53,5 +54,6 @@ newInstance创建的类，必须包含默认的构造函数，因为newInstance�
 js深拷贝：
 http://blog.csdn.net/fungleo/article/details/54931379
 https://www.zhihu.com/question/23031215
+http://tomcat.apache.org/tomcat-8.5-doc/config/valve.html#Remote_Address_Filter  tomcat配置文件
 
 
